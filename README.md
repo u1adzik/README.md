@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name's Uładzisłaŭ Hińko and I'm from Belarus<br>🌱 I’m currently learning Golang and trying to find myself in network programming<br>💬 Speaking English, Belarusian and Russian<br><br>⚡ The biggest UNIX-like OS adept since 2017
+👋 Hi, my name's Uładzisłaŭ Hińko and I'm from Belarus<br>🌱 I’m currently learning Golang and trying to find myself in network programming<br>🧠Already have an experience in Fullstack development and server administration<br>💬 Speaking English, Belarusian and Russian<br><br>⚡ The biggest UNIX-like OS adept since 2017
 
 
 # 💻 Tech Stack:
